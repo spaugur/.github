@@ -8,4 +8,4 @@ Here are our products — we think you'll like some of them! — all made with l
 
 - ☑️ [Bókar](https://bokar.is/): Personal accounting software. Increasing financial literacy.
 
-(c) 2023 [Spaugur ehf](https://spaugur.com/).
+(c) 2025 [Spaugur ehf](https://spaugur.com/).
